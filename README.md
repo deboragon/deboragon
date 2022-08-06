@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @deboragon
-
+#Bem vindo (a) ao meu perfil do GitHub
+- Procuro aprender a programar novas linguagens
+- sou aluna da alura
+- Entre em contato comigo através do meu email:debora.goncalves.silva19@escola.pr.gov.br
 
 <!---
-deboragon/deboragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
